@@ -1,6 +1,6 @@
 # about-me
 <p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f7b6da37-c871-4ee4-87df-7731a33ab1c9/thumbnail" size=60>
+  <img src="https://api.boot.dev/v1/users/public/f7b6da37-c871-4ee4-87df-7731a33ab1c9/thumbnail" size=10>
 </p>
 
 Hello!  Welcome to my Github page!
