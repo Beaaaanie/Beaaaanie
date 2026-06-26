@@ -1,8 +1,3 @@
-# about-me
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/f7b6da37-c871-4ee4-87df-7731a33ab1c9/thumbnail" size=10>
-</p>
-
 Hello!  Welcome to my Github page!
 I am new to the whole "coding" sphere, and am just gettting to know the basics to coding.
 Some of the hobbies I take on, in my free time, is Gaming, listening to Music (currently hooked on Eclipsion, Nickelback and a host of other music)
